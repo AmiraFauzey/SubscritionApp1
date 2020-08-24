@@ -1,0 +1,5 @@
+package com.subscription.repository;
+
+public class PaymentRepository {
+
+}

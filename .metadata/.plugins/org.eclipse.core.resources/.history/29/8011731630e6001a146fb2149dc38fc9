@@ -1,0 +1,5 @@
+package com.subscription.controller;
+
+public class PaymentController {
+
+}

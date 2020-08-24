@@ -1,0 +1,5 @@
+package com.subscription.model;
+
+public class Payment {
+
+}

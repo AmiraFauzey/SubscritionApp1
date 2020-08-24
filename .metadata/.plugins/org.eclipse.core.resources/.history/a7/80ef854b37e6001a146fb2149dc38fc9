@@ -1,0 +1,5 @@
+package com.subscription.webSecurityConfig;
+
+public class WebConfig {
+
+}
